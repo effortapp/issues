@@ -1,3 +1,3 @@
 # Issues?
 
-Something wrong? Please [let me know!](https://github.com/editorapp/issues/issues/new)
+Something wrong? Please [let me know!](https://github.com/effortapp/issues/issues/new)
